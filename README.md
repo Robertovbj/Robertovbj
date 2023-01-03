@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Roberto Barbosa
+## Hi there 👋 I'm Roberto Barbosa <a href="https://www.linkedin.com/in/roberto-barbosa-junior/" target="_blank"><img height="21" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 - 👨🏻‍🎓 Degree in Computer Science
 - 🔭 I’m currently looking for oportunities
