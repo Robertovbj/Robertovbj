@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Degree in Computer Science
 - 🔭 I’m currently looking for oportunities
-- 🌱 I’m currently learning Git and Terminal usage
+- 🌱 I’m currently learning more about .NET
 - 🌍 I'm from Limeira, São Paulo, Brazil
 - 💡 I like to look for code solutions and fix bugs
 - 📚 Fast learner/Always willing to learn something new
